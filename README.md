@@ -41,13 +41,11 @@
 
 <!-- Python -->
 <img src="https://img.shields.io/badge/Python-2E74B5?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-0B3D2E?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/>
 
 <!-- Front-end -->
 <img src="https://img.shields.io/badge/JavaScript-F9A825?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/jQuery-1565C0?style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E64A19?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1976D2?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-6A1B9A?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -58,7 +56,6 @@
 <img src="https://img.shields.io/badge/AWS-FF8F00?style=for-the-badge&logo=amazonaws&logoColor=black" />
 <img src="https://img.shields.io/badge/MySQL-1E88E5?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-D32F2F?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-263238?style=for-the-badge&logo=mariadb&logoColor=white" />
 
 <br/><br/><br/>
 
