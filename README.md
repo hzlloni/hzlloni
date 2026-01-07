@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### *web developer and more* ✨
+### *AI Engineer | Machine Learning & Data* ✨
 
 <br/>
 
