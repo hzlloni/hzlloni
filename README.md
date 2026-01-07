@@ -8,21 +8,18 @@
 <br/>
 
 <!-- ===================== PROFILE BUTTONS ===================== -->
-<a href="https://your-website.com">
+<a href="https://exuberant-bangle-5e0.notion.site/Hyewon-Jeon-2779e548109380e5a6cccd6b8fc40ca1">
   <img src="https://img.shields.io/badge/Website-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/your-github-id">
+<a href="https://github.com/hzlloni">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://your-tech-blog.com">
-  <img src="https://img.shields.io/badge/Tech%20Blog-2B2B2B?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <!-- ===================== TOY PROJECT ===================== -->
 ## 🧸 TOY PROJECT
-<a href="https://github.com/your-github-id/food-roulette">
+<a href="https://github.com/hzlloni/food-roulette">
   <img src="https://img.shields.io/badge/FOOD%20ROULETTE-8DB6FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
