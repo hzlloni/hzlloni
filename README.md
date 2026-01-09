@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### *AI Engineer | Machine Learning & Data* 
+### *AI Engineer | Machine Learning & Data ✨* 
 **Turning research into real-world services**
 
 <br/>
@@ -85,6 +85,19 @@ but are actually delivered to users through real applications.*
 
 ---
 
+
+### 🤝 2023 · AND& (Family Communication Support App)
+- Family communication service designed to strengthen parent–child relationships
+- Addressed emotional distance caused by physical separation and reduced daily interaction
+- Introduced a **daily keyword-based photo sharing system** to naturally create conversation topics
+- Designed mutual participation logic (both users must upload to unlock content) to encourage engagement
+- Shifted from reward-heavy missions to emotion-focused, low-burden interaction design
+
+**Links**: [GitHub](https://github.com/hzlloni/Andand)
+
+---
+
+**Tech**: Flutter, Firebase, UI/UX Design
 ### 🤝 2023 · Assistive Communication App for the Deaf (안농)
 - Mobile app for hospital communication using pictograms & sign
 - Designed for accessibility and ease of medical symptom expression
@@ -96,59 +109,52 @@ but are actually delivered to users through real applications.*
 
 ---
 
-### 🤝 2023 · AND& (Family Communication Support App)
-- Family communication service designed to strengthen parent–child relationships
-- Addressed emotional distance caused by physical separation and reduced daily interaction
-- Introduced a **daily keyword-based photo sharing system** to naturally create conversation topics
-- Designed mutual participation logic (both users must upload to unlock content) to encourage engagement
-- Shifted from reward-heavy missions to emotion-focused, low-burden interaction design
-
-**Links**: [GitHub](https://github.com/hzlloni/Andand)
-
-**Tech**: Flutter, Firebase, UI/UX Design
-
-
----
 
 ## 🛠 Tech Stack
 
 ### 💻 Language
+<div>
 <img src="https://img.shields.io/badge/Python-2E74B5?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br/>
+</div>
 
 ### 📱 Client / Application
+<div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E64A19?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1976D2?style=for-the-badge&logo=css3&logoColor=white" />
 
-<br/>
+</div>
 
 ### 🤖 AI / Machine Learning
+<div>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Deep%20Learning-673AB7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Analysis-FF9800?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Model%20Evaluation-607D8B?style=for-the-badge" />
 
-<br/>
+</div>
 
 ### 🗄 Database
+<div>
 <img src="https://img.shields.io/badge/MySQL-1E88E5?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-<br/>
+</div>
 
 ### 🛠 Tools & Collaboration
+<div>
 <img src="https://img.shields.io/badge/Git-F4511E?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-1565C0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-E64A19?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-4A148C?style=for-the-badge&logo=slack&logoColor=white" />
+</div>
 
 ---
 <!--
@@ -166,7 +172,7 @@ but are actually delivered to users through real applications.*
 ---
 -->
 
-## ✨ Philosophy
+## ✨ My Voice
 
 > **Models are meaningful only when they reach users.**  
 >  
