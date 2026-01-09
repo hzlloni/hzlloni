@@ -95,9 +95,10 @@ but are actually delivered to users through real applications.*
 
 **Links**: [GitHub](https://github.com/hzlloni/Andand)
 
+**Tech**: Flutter, Firebase, UI/UX Design
+
 ---
 
-**Tech**: Flutter, Firebase, UI/UX Design
 ### 🤝 2023 · Assistive Communication App for the Deaf (안농)
 - Mobile app for hospital communication using pictograms & sign
 - Designed for accessibility and ease of medical symptom expression
