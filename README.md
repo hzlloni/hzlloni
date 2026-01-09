@@ -41,7 +41,7 @@ but are actually delivered to users through real applications.*
 - Large-scale real-world EV BMS data analysis (479 vehicles, 15.9M km)
 - FT-Transformer–based energy efficiency & driving range prediction
 - Designed a framework without requiring full battery depletion data
-- Deployed and operated the model in a real-world service (myEVlog)
+- Integrated the prediction model into the myEVlog service backend
 
 **Links**: [Paper](https://doi.org/10.3745/PKIPS.y2025m05a.441) · Demo (App Store / Play Store)
 
